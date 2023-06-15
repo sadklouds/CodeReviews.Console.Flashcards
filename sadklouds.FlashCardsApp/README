@@ -1,10 +1,10 @@
-#Console FlashCards
+# Console FlashCards
 
 A CRUD based console application that allows the user to study with flashcards. Developed using C#/.NET and SQL Server.
 
-##Features
+## Features
 
-###SQL Server connection
+### SQL Server connection
 - The program uses SQL Server to store and read information
 - If no database exists a new one is initialized
 
